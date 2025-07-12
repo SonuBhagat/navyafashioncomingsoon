@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Navya Fashion",
+  "slogan": "Your Vision, Our Creation",
+  "founder": {
+    "@type": "Person",
+    "name": "Chandni Singh"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9326123594",
+    "email": "navya8052023@gmail.com",
+    "contactType": "customer service"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "F1323 Bhairav Residency, Kanakia Road, Beverly Park, Next to commissioner bunglow",
+    "addressLocality": "Mira Road East",
+    "postalCode": "401107",
+    "addressCountry": "IN"
+  },
+  "description": "Custom fashion design company specializing in personalized clothing and accessories",
+  "industry": "Fashion Design",
+  "url": "https://navyafashion.com"
+}
